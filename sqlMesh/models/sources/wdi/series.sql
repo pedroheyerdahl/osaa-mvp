@@ -1,7 +1,6 @@
 MODEL (
     name wdi.series,
-    kind FULL,
-    cron '@daily'
+    kind FULL
   );
 
   SELECT

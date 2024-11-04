@@ -1,7 +1,6 @@
 MODEL (
     name wdi.csv,
-    kind FULL,
-    cron '@daily'
+    kind FULL
   );
 
   SELECT
