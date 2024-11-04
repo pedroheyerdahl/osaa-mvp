@@ -1,0 +1,24 @@
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.vscode
+
+# Files
+sql_agent.ipynb
+explore.ipynb
+dev-requirements.txt
+.env
+.db
+
+# folders
+datalake/
+scratchpad/
+dashboards/
+
+sqlMesh/.cache/*
+sqlMesh/logs
+
+*.pyc
+
+.venv
