@@ -46,8 +46,7 @@ The ETL Pipeline extracts data, transforms it (cleaning, filtering, joining), an
 ## Getting Started
 
 ### Prerequisites
-
-- Python 3.9 or higher
+- Python versions 3.9 to 3.11 (3.12 not supported)
 - AWS account with S3 access
 - Just (command runner) - for running predefined commands
 
